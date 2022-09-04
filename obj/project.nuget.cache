@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5rToqZhpDNW0Og+tXQ56tOtX0/5T+XKJIRSH8qVaj67MdliueOWuspLcH8UhhTPRelHT1Fm8g292m0mzI8H5A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Console_ExcelApp\\Console4_ExcelApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reuser\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\reuser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\reuser\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

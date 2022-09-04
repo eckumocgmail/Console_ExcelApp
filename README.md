@@ -1,0 +1,5 @@
+"# console-excel" 
+Реализвона функция считывания табличной модели из файла XLSX"# Console_DataXsd" 
+"# Console_DataXsd" 
+"# Console_DataXsd" 
+"# Console_DataXsd" 
